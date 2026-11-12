@@ -10,6 +10,7 @@
 #include <cerrno>
 #include <cstdio>
 #include <optional>
+#include <algorithm>
 
 namespace exec {
 
